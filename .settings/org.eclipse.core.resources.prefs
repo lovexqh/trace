@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main=UTF-8
+encoding//src/main/com/trace/net/NioClient.java=UTF-8
+encoding//src/main/com/trace/net/nioserver=gbk
+encoding//src/main/com/trace/net/urlhandler=gbk
+encoding//src/main/com/trace/net/urlhandler/EchoServer.java=gbk
+encoding//src/main/com/trace/net/urlhandler/HttpClient1.java=gbk
+encoding//src/test=UTF-8
+encoding/<project>=UTF-8
+encoding/resource=UTF-8
